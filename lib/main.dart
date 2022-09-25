@@ -1,6 +1,6 @@
 import 'package:ecommerce_app_ui/constants.dart';
 import 'package:flutter/material.dart';
-import 'Screens/splash/splash_screen.dart';
+import 'Screens/splash/splash_sceen.dart';
 
 void main() {
   runApp(const MyApp());
